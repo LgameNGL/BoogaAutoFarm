@@ -1,6 +1,6 @@
 --[[
 Only breaks the ice around the gold nodes. Just place chests or something.
-Automatically plants Apples as well so you wont starve to death.
+Automatically plants Apples as well so you wont starve to death. (Place your own plantboxes)
 Automatically eats when you get below 50 hunger. (Will eat Apples first because... well Apples is what it's farming)
 ]]
 
