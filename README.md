@@ -35,4 +35,4 @@ you think is the best action for the game, I would let the actual player base (n
 But that's what happens when you let fully grown women moderate a literal child's game who spent too much on discord and tell you what to do than exercising or eating a salad.
 
 
--- End rant
+- From someone who enjoyed the game, but hated the shitty snowflake mods and their circle jerk of a community.
