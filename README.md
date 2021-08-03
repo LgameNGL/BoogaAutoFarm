@@ -11,7 +11,8 @@ Make sure to read the comments inside the scripts they tell you what to do.
 
 
 
-Rant:
+
+**Rant:**
 I recommend just quit the game, the mods are sensitive nerds so you'll get banned for pretty much anything.
 
 The developer is a 13 ?? year old who got the position for the same reason why he's banning people.
