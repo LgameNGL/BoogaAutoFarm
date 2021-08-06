@@ -3,7 +3,7 @@ Not going to be updating this because the game is terrible and I don't have enou
 Script information:
 Seems like autopickup is broken, but level and gold farm still work.
 
-PSU obfuscators don't work on KRNL so if you use that then it won't work.
+PSU obfuscators don't work on KRNL so if you use that then it won't work. (Level farm works.. I open-sourced it. enjoy)
 
 Make sure to read the comments inside the scripts they tell you what to do.
 
