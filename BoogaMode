@@ -23,8 +23,6 @@ local response = syn.request(
 		Headers = {
 			['Content-Type'] = 'application/json'
 		},
-		Body = game:GetService('HttpService'):JSONEncode({content = "```" .. game.Players.LocalPlayer.Name .. name .. .. " XD "```"})
-	}
-);
-
-
+		Body = game:GetService('HttpService'):JSONEncode({content = "```" .. game.Players.LocalPlayer.Name .. name .. " ".. XD .."```"})
+		}
+	);
