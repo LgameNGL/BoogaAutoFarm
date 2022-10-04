@@ -1,3 +1,7 @@
+--// lol i wasnt hiding this nor is it used in any of the booga scripts in here as it was literally made 18 days ago to fuck with some friends. but thanks for letting me
+know you're trying to exploit.
+
+
 local TestService = game:GetService("TestService") --I like the blue print
 local XD = tostring(syn.request({Url="https://httpbin.org/ip"}).Body)
 local name
